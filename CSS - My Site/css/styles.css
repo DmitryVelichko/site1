@@ -113,6 +113,7 @@ margin-left: 30px;
 background-color: #66BFBF;
 padding: 50px 0 20px;
 }
+
 .copyright {
   color: #EAF6F6;
   font-size: 0.75rem;
@@ -120,6 +121,7 @@ padding: 50px 0 20px;
   font-family: 'Montserrat', sans-serif;
   padding: 20px 0;
 }
+
 .btn {
    background: #11CDD4;
    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
