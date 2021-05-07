@@ -72,9 +72,9 @@ margin: 100px auto;
 }
 
 .top-cloud {
-position: absolute;
-right: 300px;
-top: 30px;
+  position: absolute;
+  right: 300px;
+  top: 30px;
 }
 
 .bottom-cloud {
@@ -84,9 +84,9 @@ top: 30px;
 }
 
 .img1 {
-float:left;
-width: 25%;
-margin-right: 30px;
+  float:left;
+  width: 25%;
+  margin-right: 30px;
 }
 
 .img2 {
