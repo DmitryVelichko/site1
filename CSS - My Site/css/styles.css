@@ -12,6 +12,7 @@ h1 {
   font-family: 'Sacramento', cursive;
 
 }
+
 h2 {
   color: #66BFBF;
   font-size: 2.5rem;
@@ -20,11 +21,13 @@ h2 {
   font-weight: normal;
   padding-bottom: 10px;
 }
+
 h3 {
   color: #11999E;
   font-family: 'Merriweather Sans', sans-serif;
   font-family: 'Montserrat', sans-serif;
 }
+
 p {
   font-family: 'Montserrat', sans-serif;
   line-height: 2;
